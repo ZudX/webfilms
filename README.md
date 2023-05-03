@@ -1,3 +1,11 @@
+website ini saya buat menggunakan react
+download code kemudian ubah bagaian .env
+ubah bagian Apikey dengan Apikey masing-masing
+cara mendapatkan Api klik link https://developers.themoviedb.org/3/getting-started/introduction
+ikuti langkah untuk mendapatkan Apikey
+
+
+
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
